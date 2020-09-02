@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.clock{
+    text-align: center;
+    color: #fff;
+    width: auto;
+    height: auto;
+}
+span{
+    font-size: 46px;
+}
